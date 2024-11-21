@@ -17,27 +17,11 @@ I'm CJ (Rosario)!
 
 I'm a full-stack developer with a passion for building elegant and efficient solutions that have a positive impact those who use and maintain it!
 
+Technologies I'm familiar with:
+
+| JavaScript <br>React Native<br>HTML/CSS<br>SQL<br>Unix<br>Java<br> | Node.js<br>React.js<br>AWS<br>Python<br>PROLOG<br>Assembly<br> | Next.js<br>Redux<br>MongoDB<br>Selenium<br>C<br>Julia<br> |
+| ------------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------- |
+
 [![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/cj-elmy/)
 [![Static Badge](https://img.shields.io/badge/Website-white?style=flat&logo=react&logoColor=grey)](https://relmy.github.io/portfolio/)
 [![Static Badge](https://img.shields.io/badge/Email%20me!-white?style=flat&logo=protonmail)](mailto:cjelmy@pm.me)
-
-Technologies I'm familiar with:
-- JavaScript
-- Node.js
-- Next.js
-- React Native
-- React.js
-- Redux
-- HTML/CSS
-- AWS
-- MongoDB
-- SQL
-- Python
-- Selenium
-- Unix
-- PROLOG
-- C
-- Java
-- Assembly
-- Julia
-- VBA
