@@ -19,7 +19,7 @@ I'm a full-stack developer with a passion for building elegant and efficient sol
 
 Technologies I'm familiar with:
 
-| JavaScript<br>TypeScript<br>React Native<br>HTML/CSS<br>SQL<br>MongoDB<br> | Node.js<br>React.js<br>Python<br>AWS<br>Java<br>Assembly<br> | Next.js<br>Redux<br>Selenium<br>PROLOG<br>Unix<br>C |
+| JavaScript<br>TypeScript<br>React Native<br>HTML/CSS<br>SQL<br>MongoDB<br>FIrebase<br> | Node.js<br>Express.js<br>React.js<br>Python<br>AWS<br>Java<br>Assembly<br> | Next.js<br>Redux<br>Selenium<br>PROLOG<br>Unix<br>C |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
 
 
